@@ -1,0 +1,27 @@
+{
+  "name": "user-role",
+  "version": "1.0.1",
+  "description": "nodejs module for easy user controll",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gggin/user-role.git"
+  },
+  "keywords": [
+    "user",
+    "role"
+  ],
+  "author": "gin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gggin/user-role/issues"
+  },
+  "homepage": "https://github.com/gggin/user-role#readme",
+  "dependencies": {
+    "lodash": "^4.13.1",
+    "oneline-crypto": "^1.0.2"
+  }
+}
